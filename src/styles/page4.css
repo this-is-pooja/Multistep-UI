@@ -1,0 +1,13 @@
+.success{
+    margin-top:2rem;
+}
+
+.success-circle {
+    height: 4.2rem;
+    width: 4.2rem;
+    border-radius: 50%;
+    background-color: rgb(110, 5, 209);
+    border: none;
+    margin-left: 48%;
+    margin-top: 6rem;
+}

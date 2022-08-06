@@ -1,0 +1,41 @@
+.App {
+  text-align: center
+}
+
+.main-head {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-bottom: 2rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.page-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 2px;
+}
+
+.circle {
+  height: 2.6rem;
+  width: 2.6rem;
+  border-radius: 24px;
+  border: 1px solid #DDE5EC;
+}
+
+.page-no {
+  margin-top: 8px;
+}
+
+.divider {
+  background-color: #DDE5EC;
+  height: 1px;
+  width: 2.4rem;
+  margin-top: 1.2rem;
+}
